@@ -10,7 +10,9 @@ Here are some of the major projects I have build! 🚀🚀
     -   Teacher can create a session, add students and can share a unique link with students
     -   When a student opens the portal and answers something, it appears on the teacher's dashboard.
     
-    ![](./images/devLokLogin.PNG)
+   **DevLok Login Page**
+![](./images/devLokLogin.png)
+
 ## Everyone Answers (Firebase) | [Website link](https://modest-fermi-16f868.netlify.app) | [GitHub Repo](https://github.com/mehtaReena/Capstone-Project)
 
 ## Memory Game with React | [Website link](https://heuristic-snyder-bb76cf.netlify.app) | [GitHub Repo](https://github.com/McLaren-College/day-23-memory-game-project-mehtaReena)
