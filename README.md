@@ -10,7 +10,7 @@ It is a social media website design for people to share their thoughts.Including
    **DevLok Login Page**
 ![](./images/devLokLogin.PNG)
 **DevLok Profile Page**
-![](./images/ProfilePage.PNG)
+![](./images/feedpage.PNG)
 
 ## Everyone Answers (Firebase) | [Website link](https://modest-fermi-16f868.netlify.app) | [GitHub Repo](https://github.com/mehtaReena/Capstone-Project)
 It is an app created for teachers to get response in real time from students in a live online class.
