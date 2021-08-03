@@ -16,8 +16,9 @@ It is a social media website design for people to share their thoughts.Including
 It is an app created for teachers to get response in real time from students in a live online class.
 Teacher can create a session, add students and can share a unique link with students.
 When a student opens the portal and answers something, it appears on the teacher's dashboard real time.
+
 **Everyone Answers Login Page**
-![](./images/login.PNG)
+![](./images/loginPage.PNG)
 
 **Everyone Answers Dashboard**
 ![](./images/dashboard.PNG)
