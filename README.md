@@ -4,6 +4,12 @@ Here are some of the major projects I have build! 🚀🚀
 
 ## DevLok: Social Media Website | [Website link](https://app.netlify.com/sites/friendly-blackwell-086f20/overview) | [GitHub Repo](https://github.com/mehtaReena/Social-Media-Backend) | [GitHub Repo](https://github.com/mehtaReena/SocialMediaFrontend)
 
-## Everyone Answers (Firebase) | [Website link](https://https://modest-fermi-16f868.netlify.app) | [GitHub Repo](https://github.com/mehtaReena/Capstone-Project)
+
+
+    -    App created to help teachers get instant response from students in a live online class
+    -   Teacher can create a session, add students and can share a unique link with students
+    -   When a student opens the portal and answers something, it appears on the teacher's dashboard.
+## Everyone Answers (Firebase) | [Website link](https://modest-fermi-16f868.netlify.app) | [GitHub Repo](https://github.com/mehtaReena/Capstone-Project)
 
 ## Memory Game with React | [Website link](https://heuristic-snyder-bb76cf.netlify.app) | [GitHub Repo](https://github.com/McLaren-College/day-23-memory-game-project-mehtaReena)
+![](./images/bgPattern.png)
