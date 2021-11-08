@@ -2,6 +2,10 @@
 
 Here are some of the major projects I have build! 🚀🚀
 
+## Ticket-Tracker Website | [Website link](https://next-auth-mongo-db.vercel.app/) | [GitHub Repo](https://github.com/mehtaReena/next-auth-mongoDB)
+
+## Weather Forecast Website | [Website link](https://nifty-pasteur-ce5134.netlify.app/) | [GitHub Repo](https://github.com/mehtaReena/react-high-chart)
+
 ## DevLok: Social Media Website | [Website link](https://app.netlify.com/sites/friendly-blackwell-086f20/overview) | [GitHub Repo](https://github.com/mehtaReena/Social-Media-Backend) | [GitHub Repo](https://github.com/mehtaReena/SocialMediaFrontend)
 
 
