@@ -3,7 +3,9 @@
 Here are some of the major projects I have build! 🚀🚀
 
 ## Ticket-Tracker Website | [Website link](https://next-auth-mongo-db.vercel.app/) | [GitHub Repo](https://github.com/mehtaReena/next-auth-mongoDB)
-It is a social media website design for people to share their thoughts.Including authentication, and used JWT for authorization. You can follow other users.You can like a post, view other users’ profile and unfollow them if you want.
+It is a Ticket-tracker website design for user to manage tickets.
+User can create,delete,edit the ticket and assign to the team by sending emails.
+Can see the status of ticket through chart.
     
    **Ticket-Tracker Login Page**
 ![](./images/loginTracker.png)
