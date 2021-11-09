@@ -22,6 +22,8 @@ A simple weather app that allows you to get current weather information amd next
    **Weather Forecast Dashboard**
 ![](./images/weatherDashborad.png)
 
+<hr/>
+
 ## DevLok: Social Media Website | [Website link](https://app.netlify.com/sites/friendly-blackwell-086f20/overview) | [GitHub Repo](https://github.com/mehtaReena/Social-Media-Backend) | [GitHub Repo](https://github.com/mehtaReena/SocialMediaFrontend)
 
 
@@ -29,8 +31,11 @@ It is a social media website design for people to share their thoughts.Including
     
    **DevLok Login Page**
 ![](./images/devLokLogin.PNG)
+
 **DevLok Profile Page**
 ![](./images/feedpage.PNG)
+
+<hr/>
 
 # Everyone Answers (Firebase) | [Website link](https://modest-fermi-16f868.netlify.app) | [GitHub Repo](https://github.com/mehtaReena/Capstone-Project)
 It is an app created for teachers to get response in real time from students in a live online class.
@@ -46,6 +51,8 @@ When a student opens the portal and answers something, it appears on the teacher
 
 **Everyone Answers Student Page**
 ![](./images/studentpage.PNG)
+
+<hr/>
 
 # Memory Game with React | [Website link](https://heuristic-snyder-bb76cf.netlify.app) | [GitHub Repo](https://github.com/McLaren-College/day-23-memory-game-project-mehtaReena)
 Created a fun time-based memory game using ReactJS.
