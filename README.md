@@ -7,8 +7,11 @@ It is a social media website design for people to share their thoughts.Including
     
    **Ticket-Tracker Login Page**
 ![](./images/loginTracker.png)
+
 **Ticket-Tracker Dashboard**
 ![](./images/TicketDsahboard2.png)
+
+<hr/>
 
 ## Weather Forecast Website | [Website link](https://nifty-pasteur-ce5134.netlify.app/) | [GitHub Repo](https://github.com/mehtaReena/react-high-chart)
 A simple weather app that allows you to get current weather information amd next five days forecast, based on the city you are.
