@@ -3,7 +3,7 @@
 
 Here are some of the major projects I have build! 🚀🚀
 
-## Ticket-Tracker Website | [Website link](https://next-auth-mongo-db.vercel.app/) | [GitHub Repo](https://github.com/mehtaReena/next-auth-mongoDB)
+# Ticket-Tracker Website | [Website link](https://next-auth-mongo-db.vercel.app/) | [GitHub Repo](https://github.com/mehtaReena/next-auth-mongoDB)
 It is a Ticket-tracker website design for user to manage tickets.
 User can create,delete,edit the ticket and assign to the team by sending emails.
 Can see the status of ticket through chart.
@@ -16,7 +16,7 @@ Can see the status of ticket through chart.
 
 <hr/>
 
-## Weather Forecast Website | [Website link](https://nifty-pasteur-ce5134.netlify.app/) | [GitHub Repo](https://github.com/mehtaReena/react-high-chart)
+# Weather Forecast Website | [Website link](https://nifty-pasteur-ce5134.netlify.app/) | [GitHub Repo](https://github.com/mehtaReena/react-high-chart)
 A simple weather app that allows you to get current weather information amd next five days forecast, based on the city you are.
     
    **Weather Forecast Dashboard**
@@ -32,7 +32,7 @@ It is a social media website design for people to share their thoughts.Including
 **DevLok Profile Page**
 ![](./images/feedpage.PNG)
 
-## Everyone Answers (Firebase) | [Website link](https://modest-fermi-16f868.netlify.app) | [GitHub Repo](https://github.com/mehtaReena/Capstone-Project)
+# Everyone Answers (Firebase) | [Website link](https://modest-fermi-16f868.netlify.app) | [GitHub Repo](https://github.com/mehtaReena/Capstone-Project)
 It is an app created for teachers to get response in real time from students in a live online class.
 Teacher can create a session, add students and can share a unique link with students.
 When a student opens the portal and answers something, it appears on the teacher's dashboard real time.
@@ -47,7 +47,7 @@ When a student opens the portal and answers something, it appears on the teacher
 **Everyone Answers Student Page**
 ![](./images/studentpage.PNG)
 
-## Memory Game with React | [Website link](https://heuristic-snyder-bb76cf.netlify.app) | [GitHub Repo](https://github.com/McLaren-College/day-23-memory-game-project-mehtaReena)
+# Memory Game with React | [Website link](https://heuristic-snyder-bb76cf.netlify.app) | [GitHub Repo](https://github.com/McLaren-College/day-23-memory-game-project-mehtaReena)
 Created a fun time-based memory game using ReactJS.
 Using multiple timers on the same page was a challenge.
 
