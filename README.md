@@ -3,6 +3,12 @@
 Here are some of the major projects I have build! 🚀🚀
 
 ## Ticket-Tracker Website | [Website link](https://next-auth-mongo-db.vercel.app/) | [GitHub Repo](https://github.com/mehtaReena/next-auth-mongoDB)
+It is a social media website design for people to share their thoughts.Including authentication, and used JWT for authorization. You can follow other users.You can like a post, view other users’ profile and unfollow them if you want.
+    
+   **Ticket-Tracker Login Page**
+![](./images/loginTracker.png)
+**Ticket-Tracker Dashboard**
+![](./images/TicketDsahboard2.png)
 
 ## Weather Forecast Website | [Website link](https://nifty-pasteur-ce5134.netlify.app/) | [GitHub Repo](https://github.com/mehtaReena/react-high-chart)
 
